@@ -1,3 +1,6 @@
-# flutter-tflite
+# TensorFlow starter repo
 
-(Staging/placeholder) This is where we'll host the updated TensorFlow Lite plugin for Flutter
+Change this file, make a commit and squash on the original one.
+
+Last step (squashing) is optional, to be done only if we want to have just one
+commit before repo goes public.
